@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Volsbb Onetouch</string>
+    <string name="appname">Volsbb OneTouch</string>
+    <string name="fulltv">Instructions :\n\n
+•	Check if your device\'s Wifi is connected to VOLSBB network.\n\n
+•	When using first time, Login using the "Save and Login" option to use the notification login feature for the next time.\n\n
+•	Functionalities :\n\n\t
+>	Log In - Use this to login to VOLSBB without saving your credentials.\n\t
+>	Save &amp; Log In - Use this to login VOLSBB and overwrite the existing saved credentials.\n\t
+>	Log Out - Use this to logout the active VOLSBB session.\n\n
+•	Notification functionality :\n\n\t
+>	You will get notified every time your device connects to VOLSBB network with two action buttons Login and Logout.\n\t
+>	Login using notification will always use your saved credentials.\n\t
+>	Once you disconnect from VOLSBB network, notification will automatically disappear.
+</string>
+</resources>
